@@ -1,0 +1,848 @@
+[
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "importPath": "base.models",
+        "description": "base.models",
+        "isExtraImport": true,
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "base.api",
+        "description": "base.api",
+        "isExtraImport": true,
+        "detail": "base.api",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSerializer",
+        "kind": 6,
+        "importPath": "base.api.serializers",
+        "description": "base.api.serializers",
+        "peekOfCode": "class RoomSerializer(ModelSerializer):\n    class Meta:\n        model = Room\n        fields = '__all__'",
+        "detail": "base.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "base.api.urls",
+        "description": "base.api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',  views.getRoutes),\n    path('rooms/', views.getRooms),\n    path('rooms/<str:pk>/', views.getRoom),\n]",
+        "detail": "base.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "getRoutes",
+        "kind": 2,
+        "importPath": "base.api.views",
+        "description": "base.api.views",
+        "peekOfCode": "def getRoutes(request):\n    routes = [\n        'GET /api',\n        'GET /api/rooms',\n        'GET /api/rooms/:id'\n    ]\n    return Response(routes)\n@api_view(['GET'])\ndef getRooms(request):\n    rooms = Room.objects.all()",
+        "detail": "base.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "getRooms",
+        "kind": 2,
+        "importPath": "base.api.views",
+        "description": "base.api.views",
+        "peekOfCode": "def getRooms(request):\n    rooms = Room.objects.all()\n    serializer = RoomSerializer(rooms, many=True)\n    return Response(serializer.data)\n@api_view(['GET'])\ndef getRoom(request, pk):\n    room = Room.objects.get(id=pk)\n    serializer = RoomSerializer(room, many=False)\n    return Response(serializer.data)",
+        "detail": "base.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "getRoom",
+        "kind": 2,
+        "importPath": "base.api.views",
+        "description": "base.api.views",
+        "peekOfCode": "def getRoom(request, pk):\n    room = Room.objects.get(id=pk)\n    serializer = RoomSerializer(room, many=False)\n    return Response(serializer.data)",
+        "detail": "base.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "base.migrations.0001_initial",
+        "description": "base.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "base.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "kind": 6,
+        "importPath": "base.apps",
+        "description": "base.apps",
+        "peekOfCode": "class BaseConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'base'",
+        "detail": "base.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MyUserCreationForm",
+        "kind": 6,
+        "importPath": "base.forms",
+        "description": "base.forms",
+        "peekOfCode": "class MyUserCreationForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = ['name', 'username', 'email', 'password1', 'password2']\nclass RoomForm(ModelForm):\n    class Meta:\n        model = Room\n        fields = '__all__'\n        exclude = ['host', 'participants']\nclass UserForm(ModelForm):",
+        "detail": "base.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RoomForm",
+        "kind": 6,
+        "importPath": "base.forms",
+        "description": "base.forms",
+        "peekOfCode": "class RoomForm(ModelForm):\n    class Meta:\n        model = Room\n        fields = '__all__'\n        exclude = ['host', 'participants']\nclass UserForm(ModelForm):\n    class Meta:\n        model = User\n        fields = ['avatar', 'name', 'username', 'email', 'bio']",
+        "detail": "base.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "base.forms",
+        "description": "base.forms",
+        "peekOfCode": "class UserForm(ModelForm):\n    class Meta:\n        model = User\n        fields = ['avatar', 'name', 'username', 'email', 'bio']",
+        "detail": "base.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class User(AbstractUser):\n    name = models.CharField(max_length=200, null=True)\n    email = models.EmailField(unique=True, null=True)\n    bio = models.TextField(null=True)\n    avatar = models.ImageField(null=True, default=\"avatar.svg\")\n    USERNAME_FIELD = 'email'\n    REQUIRED_FIELDS = []\nclass Topic(models.Model):\n    name = models.CharField(max_length=200)\n    def __str__(self):",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Topic",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Topic(models.Model):\n    name = models.CharField(max_length=200)\n    def __str__(self):\n        return self.name\nclass Room(models.Model):\n    host = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)\n    topic = models.ForeignKey(Topic, on_delete=models.SET_NULL, null=True)\n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    participants = models.ManyToManyField(",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Room(models.Model):\n    host = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)\n    topic = models.ForeignKey(Topic, on_delete=models.SET_NULL, null=True)\n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    participants = models.ManyToManyField(\n        User, related_name='participants', blank=True)\n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    class Meta:",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Message(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    room = models.ForeignKey(Room, on_delete=models.CASCADE)\n    body = models.TextField()\n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        ordering = ['-updated', '-created']\n    def __str__(self):\n        return self.body[0:50]",
+        "detail": "base.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "base.urls",
+        "description": "base.urls",
+        "peekOfCode": "urlpatterns = [\n    path('login/', views.loginPage, name=\"login\"),\n    path('logout/', views.logoutUser, name=\"logout\"),\n    path('register/', views.registerPage, name=\"register\"),\n    path('', views.home, name=\"home\"),\n    path('room/<str:pk>/', views.room, name=\"room\"),\n    path('profile/<str:pk>/', views.userProfile, name=\"user-profile\"),\n    path('create-room/', views.createRoom, name=\"create-room\"),\n    path('update-room/<str:pk>/', views.updateRoom, name=\"update-room\"),\n    path('delete-room/<str:pk>/', views.deleteRoom, name=\"delete-room\"),",
+        "detail": "base.urls",
+        "documentation": {}
+    },
+    {
+        "label": "loginPage",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def loginPage(request):\n    page = 'login'\n    if request.user.is_authenticated:\n        return redirect('home')\n    if request.method == 'POST':\n        email = request.POST.get('email').lower()\n        password = request.POST.get('password')\n        try:\n            user = User.objects.get(email=email)\n        except:",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "logoutUser",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def logoutUser(request):\n    logout(request)\n    return redirect('home')\ndef registerPage(request):\n    form = MyUserCreationForm()\n    if request.method == 'POST':\n        form = MyUserCreationForm(request.POST)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.username = user.username.lower()",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "registerPage",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def registerPage(request):\n    form = MyUserCreationForm()\n    if request.method == 'POST':\n        form = MyUserCreationForm(request.POST)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.username = user.username.lower()\n            user.save()\n            login(request, user)\n            return redirect('home')",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def home(request):\n    q = request.GET.get('q') if request.GET.get('q') != None else ''\n    rooms = Room.objects.filter(\n        Q(topic__name__icontains=q) |\n        Q(name__icontains=q) |\n        Q(description__icontains=q)\n    )\n    topics = Topic.objects.all()[0:5]\n    room_count = rooms.count()\n    room_messages = Message.objects.filter(",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def room(request, pk):\n    room = Room.objects.get(id=pk)\n    room_messages = room.message_set.all()\n    participants = room.participants.all()\n    if request.method == 'POST':\n        message = Message.objects.create(\n            user=request.user,\n            room=room,\n            body=request.POST.get('body')\n        )",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "userProfile",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def userProfile(request, pk):\n    user = User.objects.get(id=pk)\n    rooms = user.room_set.all()\n    room_messages = user.message_set.all()\n    topics = Topic.objects.all()\n    context = {'user': user, 'rooms': rooms,\n               'room_messages': room_messages, 'topics': topics}\n    return render(request, 'base/profile.html', context)\n@login_required(login_url='login')\ndef createRoom(request):",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "createRoom",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def createRoom(request):\n    form = RoomForm()\n    topics = Topic.objects.all()\n    if request.method == 'POST':\n        topic_name = request.POST.get('topic')\n        topic, created = Topic.objects.get_or_create(name=topic_name)\n        Room.objects.create(\n            host=request.user,\n            topic=topic,\n            name=request.POST.get('name'),",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateRoom",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def updateRoom(request, pk):\n    room = Room.objects.get(id=pk)\n    form = RoomForm(instance=room)\n    topics = Topic.objects.all()\n    if request.user != room.host:\n        return HttpResponse('Your are not allowed here!!')\n    if request.method == 'POST':\n        topic_name = request.POST.get('topic')\n        topic, created = Topic.objects.get_or_create(name=topic_name)\n        room.name = request.POST.get('name')",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteRoom",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def deleteRoom(request, pk):\n    room = Room.objects.get(id=pk)\n    if request.user != room.host:\n        return HttpResponse('Your are not allowed here!!')\n    if request.method == 'POST':\n        room.delete()\n        return redirect('home')\n    return render(request, 'base/delete.html', {'obj': room})\n@login_required(login_url='login')\ndef deleteMessage(request, pk):",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteMessage",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def deleteMessage(request, pk):\n    message = Message.objects.get(id=pk)\n    if request.user != message.user:\n        return HttpResponse('Your are not allowed here!!')\n    if request.method == 'POST':\n        message.delete()\n        return redirect('home')\n    return render(request, 'base/delete.html', {'obj': message})\n@login_required(login_url='login')\ndef updateUser(request):",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateUser",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def updateUser(request):\n    user = request.user\n    form = UserForm(instance=user)\n    if request.method == 'POST':\n        form = UserForm(request.POST, request.FILES, instance=user)\n        if form.is_valid():\n            form.save()\n            return redirect('user-profile', pk=user.id)\n    return render(request, 'base/update-user.html', {'form': form})\ndef topicsPage(request):",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "topicsPage",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def topicsPage(request):\n    q = request.GET.get('q') if request.GET.get('q') != None else ''\n    topics = Topic.objects.filter(name__icontains=q)\n    return render(request, 'base/topics.html', {'topics': topics})\ndef activityPage(request):\n    room_messages = Message.objects.all()\n    return render(request, 'base/activity.html', {'room_messages': room_messages})",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "activityPage",
+        "kind": 2,
+        "importPath": "base.views",
+        "description": "base.views",
+        "peekOfCode": "def activityPage(request):\n    room_messages = Message.objects.all()\n    return render(request, 'base/activity.html', {'room_messages': room_messages})",
+        "detail": "base.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "discuss.asgi",
+        "description": "discuss.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "discuss.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-3#av2c6nptlbbb6^muqkchu&fe3wv&n$t2+g$v!ir-f5%doocb'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-3#av2c6nptlbbb6^muqkchu&fe3wv&n$t2+g$v!ir-f5%doocb'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'base.apps.BaseConfig',",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'base.apps.BaseConfig',\n    'rest_framework',\n    \"corsheaders\",",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'base.User'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    \"corsheaders.middleware.CorsMiddleware\",\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    \"corsheaders.middleware.CorsMiddleware\",\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "ROOT_URLCONF = 'discuss.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            BASE_DIR / 'templates'\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            BASE_DIR / 'templates'\n        ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'discuss.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]\nMEDIA_ROOT = BASE_DIR / 'static/images'",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]\nMEDIA_ROOT = BASE_DIR / 'static/images'\n# STATIC_ROOT =",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nMEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]\nMEDIA_ROOT = BASE_DIR / 'static/images'\n# STATIC_ROOT =\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "MEDIA_URL = '/images/'\nSTATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]\nMEDIA_ROOT = BASE_DIR / 'static/images'\n# STATIC_ROOT =\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR / 'static'\n]\nMEDIA_ROOT = BASE_DIR / 'static/images'\n# STATIC_ROOT =\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'static/images'\n# STATIC_ROOT =\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "discuss.settings",
+        "description": "discuss.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "discuss.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "discuss.urls",
+        "description": "discuss.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('base.urls')),\n    path('api/', include('base.api.urls'))\n]\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "discuss.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "discuss.wsgi",
+        "description": "discuss.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "discuss.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'discuss.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
